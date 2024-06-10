@@ -1,65 +1,45 @@
 Materiales relativos al curso de Diseño y analissi de algoritmos de la URJC.
 
-Recursos extra:
+# Recursos extra para Diseño y Análisis de Algoritmos:
 
-<n>Backtracking</n>
-Explicación y Ejemplos:
+## Backtracking
+1. **Explicación y Ejemplos**:
+   - [GeeksforGeeks - Backtracking](https://www.geeksforgeeks.org/backtracking-algorithms/)
+   - [Programiz - Backtracking](https://www.programiz.com/dsa/backtracking)
+   
+2. **Implementación en Python**:
+   - [GeeksforGeeks - N-Queen Problem](https://www.geeksforgeeks.org/n-queen-problem-backtracking-3/)
 
-GeeksforGeeks - Backtracking
-Programiz - Backtracking
-Cursos y Tutoriales:
+## Divide y Vencerás
+1. **Explicación y Ejemplos**:
+   - [GeeksforGeeks - Divide and Conquer](https://www.geeksforgeeks.org/divide-and-conquer-algorithm-introduction/)
+   - [TutorialsPoint - Divide and Conquer](https://www.tutorialspoint.com/data_structures_algorithms/divide_and_conquer.htm)
+   
+2. **Implementación en Python**:
+   - [GeeksforGeeks - Merge Sort](https://www.geeksforgeeks.org/merge-sort/)
 
-Coursera - Algorithms Part I (Backtracking)
-YouTube - Backtracking Explained
-Implementación en Python:
+## Grafos
+1. **Explicación y Ejemplos**:
+   - [GeeksforGeeks - Graph Data Structure](https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/)
+   - [Programiz - Graph Data Structure](https://www.programiz.com/dsa/graph)
+   
+2. **Implementación en Python**:
+   - [GeeksforGeeks - Graph Implementation](https://www.geeksforgeeks.org/graph-implementation-python/)
 
-Backtracking in Python - Example Problems
-Divide y Vencerás
-Explicación y Ejemplos:
+## Voraces
+1. **Explicación y Ejemplos**:
+   - [GeeksforGeeks - Greedy Algorithms](https://www.geeksforgeeks.org/greedy-algorithms/)
+   - [TutorialsPoint - Greedy Algorithms](https://www.tutorialspoint.com/data_structures_algorithms/greedy_algorithms.htm)
+   
+2. **Implementación en Python**:
+   - [GeeksforGeeks - Huffman Coding](https://www.geeksforgeeks.org/huffman-coding-greedy-algo-3/)
 
-GeeksforGeeks - Divide and Conquer
-TutorialsPoint - Divide and Conquer
-Cursos y Tutoriales:
+## Voraces Grafos
+1. **Explicación y Ejemplos**:
+   - [GeeksforGeeks - Minimum Spanning Tree](https://www.geeksforgeeks.org/minimum-spanning-tree/)
+   - [Programiz - Greedy Graph Algorithms](https://www.programiz.com/dsa/graph)
+   
+2. **Implementación en Python**:
+   - [GeeksforGeeks - Kruskal's Algorithm](https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/)
+   - [GeeksforGeeks - Prim's Algorithm](https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/)
 
-Coursera - Divide and Conquer, Sorting and Searching, and Randomized Algorithms
-YouTube - Divide and Conquer Algorithm
-Implementación en Python:
-
-Merge Sort - Python Implementation
-Grafos
-Explicación y Ejemplos:
-
-GeeksforGeeks - Graph Data Structure
-Programiz - Graph Data Structure
-Cursos y Tutoriales:
-
-Coursera - Graph Search, Shortest Paths, and Data Structures
-YouTube - Graph Theory
-Implementación en Python:
-
-Graph Algorithms in Python
-Voraces
-Explicación y Ejemplos:
-
-GeeksforGeeks - Greedy Algorithms
-TutorialsPoint - Greedy Algorithms
-Cursos y Tutoriales:
-
-Coursera - Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming
-YouTube - Greedy Algorithms
-Implementación en Python:
-
-Huffman Coding in Python
-Voraces Grafos
-Explicación y Ejemplos:
-
-GeeksforGeeks - Minimum Spanning Tree
-Programiz - Greedy Graph Algorithms
-Cursos y Tutoriales:
-
-Coursera - Greedy Algorithms for Graphs
-YouTube - Prim's Algorithm | Kruskal's Algorithm
-Implementación en Python:
-
-Kruskal's Algorithm in Python
-Prim's Algorithm in Python
