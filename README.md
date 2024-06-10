@@ -2,7 +2,7 @@ Materiales relativos al curso de Diseño y analissi de algoritmos de la URJC.
 
 Recursos extra:
 
-<s>Backtracking</s>
+<n>Backtracking</n>
 Explicación y Ejemplos:
 
 GeeksforGeeks - Backtracking
